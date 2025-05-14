@@ -14,7 +14,7 @@ pipeline
         {
             steps()
             {
-                git branch: 'main', url: 'https://github.com/DevOpsCloudAutomation/TerraformJenkinsCICD.git'
+                git branch: 'main', url: 'https://github.com/DevOpsCloudAutomation/Terraform_Jenkins_CICD.git'
             }
         }
 
